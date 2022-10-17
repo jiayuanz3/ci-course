@@ -1,4 +1,5 @@
 [![Run unit tests](https://github.com/jiayuanz3/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/jiayuanz3/ci-course/actions/workflows/unit-tests.yml)
+[![codecov](https://codecov.io/gh/jiayuanz3/ci-course/branch/main/graph/badge.svg?token=EOBTC5B92N)](https://codecov.io/gh/jiayuanz3/ci-course)
 
 # OxRSE Continuous Integration course
 
